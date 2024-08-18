@@ -29,7 +29,7 @@ In this lab you will setup a new NetApp Cluster and perform routine storage admi
 
 3. Input your credentials and click Sign In.
     * Username - admin
-    * Password - SDNlab01@
+    * Password - Use the password listed within the my labs secion.
 
 4. Upon successful login you will be directed to the System Manager Dashboard.  The Dashboard provides a overview of the cluster's overall health and configuration.  You will notice the controller model, in this case it's virtual, capacity, system performance and network details.  Currently these panels don't contain any information as we haven't started the setup process.
 ![System Manager Dashboard](images/part1_step4a.png)
@@ -52,7 +52,7 @@ In this lab you will setup a new NetApp Cluster and perform routine storage admi
             * Access protocol - Enable SMB/CIFS
       * D) Once you select Enable SMB/CIFS a sub dialog box will open.  You will need to input your Active Directory information.  This SVM will be joined to the domain with a computer object.
         * Administrator Name - Administrator
-        * Password - SDNlab01@
+        * Password - Use the password listed within the my labs secion.
         * Server Name - fileserver
         * Active Directory Domain - This will be the domain your lab is configured with.  You can get this information by opening a command prompt and typing ipconfig /all.  The DNS Suffix Search List is the Active Directory Domain you will input.
 ![IP Configuration](images/part2_step1d1.png)
@@ -126,7 +126,7 @@ In this lab you will setup a new NetApp Cluster and perform routine storage admi
         * You will get a "Your connection is not private" message, select advanced and then click Proceed.
             * Select Launch Vsphere Client (HTML5)
             * Username - <administrator@vsphere.local>
-            * Password - SDNlab01@
+            * Password - Use the password listed within the my labs secion.
             * Select the Login button
  ![Vsphere Login](images/part3_step2c1.png)
             * On the left hand side expand vcenter, expand DC and then expand CL.
