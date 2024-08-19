@@ -108,7 +108,7 @@ In this lab you will setup a new NetApp Cluster and perform routine storage admi
         * Default Language - Leave to the default of c.utf_8
         * IP Address - You will use the first 3 octets of the DNS server.  The last octect will be .63
         * Subnet Mask - Should auto populate, if not click off the IP address field
-        * Gateway - Should auto populate, if not click off the IP address field.
+        * Gateway - This is not needed.
         * Broadcast Domain and Port - Default
       * E) Verify all of the data is correct and select Save.  If everything was put in correctly the new nfs server will be created and it will take you back to the Storage VMs page.  At this point you've created a new SVM with the NFS protocol.
 ![Rules](images/part3_step1c2.png)
