@@ -48,7 +48,7 @@ In this lab you will setup a new NetApp Cluster and perform routine storage admi
       * B) From the Storage VMs screen we will select Add.
 ![Create SVM](images/part2_step1b.png)
       * C) A new panel will open with the title of Add storage VM.  We will give the Storage VM a name and configure protocols.
-            *Storage VM Name - fileserver
+            * Storage VM Name - fileserver
             * Access protocol - Enable SMB/CIFS
       * D) Once you select Enable SMB/CIFS a sub dialog box will open.  You will need to input your Active Directory information.  This SVM will be joined to the domain with a computer object.
         * Administrator Name - Administrator
