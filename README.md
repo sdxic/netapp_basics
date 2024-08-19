@@ -79,7 +79,7 @@ In this lab you will setup a new NetApp Cluster and perform routine storage admi
 ![Review Share](images/part2_step2c.png)
       * D) Map a network drive to the share we created and write a file to it.
         * Select the windows folder icon on the taskbar.
-        * On the top of the windows explorer window, select This PC and then map network drive and select map network drive.
+        * Select This PC and then on the top of the windows explorer window select Computer and then map network drive and select map network drive.
         * In the Map Network Drive put in the following values.
             * Drive - Z:
             * Folder - \\\fileserver\it_dept
