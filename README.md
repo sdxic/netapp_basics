@@ -1,4 +1,4 @@
-# NetApp OnTap Basics
+# NetApp ONTAP Basics
 
 In this lab you will setup a new NetApp Cluster and perform routine storage administrative duties. While the core cluster is already in place, your responsibilities include generating new storage virtual machines, volumes, and shares. This lab caters to individuals without prior NetApp experience, utilizing the System Manager web interface for task execution
 
